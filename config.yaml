@@ -1,7 +1,7 @@
-title: Stackbit Ampersand Theme
+title: Fabrice Bernhard - Rise of the Geeks
 baseURL: /
 params:
-  description: Medium inspired blogging theme for Stackbit
+  description: Fabrice Bernhard - my thoughts on why we need more geeks in society, how to make it happen... or often just my own geek thoughts.
   layout_style: grid
   palette: black
   header:

@@ -38,9 +38,5 @@ fields:
     required: true
 pages:
 - content/posts/basic-rules-for-walking-in-the-mountains.md
-- content/posts/fox-village-in-japan.md
-- content/posts/fragments-of-iceland.md
-- content/posts/moving-to-new-york.md
-- content/posts/relax-in-nature.md
-- content/posts/what-isphotography.md
-- content/posts/working-from-home.md
+- content/posts/lean-vs-agile-the-lean-manifesto.md
+- content/posts/migrate-your-legacy-now-and-migrate-it-to-serverless.md
