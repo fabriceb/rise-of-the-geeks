@@ -10,11 +10,6 @@ intro_content: >-
 intro_actions:
   - type: action
     template: action
-    label: Learn More
-    url: /about
-    style: primary
-  - type: action
-    template: action
     label: Contact
     url: /contact
     style: secondary
