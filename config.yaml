@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    title: Ampersand
+    title: Rise of the Geeks
     logo_img: images/logo.png
     has_nav: true
     nav_links:
