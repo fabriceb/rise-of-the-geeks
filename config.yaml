@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: Medium inspired blogging theme for Stackbit
   layout_style: grid
-  palette: green
+  palette: blue
   header:
     type: header
     template: header
