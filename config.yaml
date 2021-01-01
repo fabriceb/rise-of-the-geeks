@@ -25,11 +25,6 @@ params:
         label: Style Guide
         url: /style-guide
         style: link
-      - type: action
-        template: action
-        label: Contact
-        url: /contact
-        style: link
   footer:
     type: footer
     template: footer
