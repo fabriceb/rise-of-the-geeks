@@ -1,16 +1,15 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+title: Fabrice Bernhard
+subtitle: ''
+img_path: ''
 layout: page
 ---
+![](/images/fabriceb03-2.jpg)
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I am the co-founder and Group CTO of Theodo, a lean software consultancy whose mission is to transform organisations - from start-ups to large companies - to build better digital experiences and become tech leaders in their market.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+After discovering in 2010 the power of scrum and devops in helping tech teams deliver better products faster, the challenge has been to scale agile to the whole organisation and I have been on a lean journey ever since. Seven years of coaching by lean senseis and 4 trips to Toyota factories in Japan later, Theodo is now a group of 8 startups with 300+ people in Paris, London, New York and Casablanca.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+In my spare time I try to automate my house way beyond what is reasonable.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+I studied Computer Science at Ecole Polytechnique Paris and ETH Zürich.
