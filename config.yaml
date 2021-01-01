@@ -20,11 +20,6 @@ params:
         label: About
         url: /about
         style: link
-      - type: action
-        template: action
-        label: Style Guide
-        url: /style-guide
-        style: link
   footer:
     type: footer
     template: footer
