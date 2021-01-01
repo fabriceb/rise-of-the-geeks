@@ -40,13 +40,6 @@ params:
         new_window: true
       - type: action
         template: action
-        label: Instagram
-        url: 'https://www.instagram.com/'
-        style: icon
-        icon_class: fa-instagram
-        new_window: true
-      - type: action
-        template: action
         label: GitHub
         url: 'https://github.com/'
         style: icon
