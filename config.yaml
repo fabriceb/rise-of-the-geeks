@@ -8,7 +8,6 @@ params:
     type: header
     template: header
     title: Rise of the Geeks
-    logo_img: images/logo.png
     has_nav: true
     nav_links:
       - type: action
