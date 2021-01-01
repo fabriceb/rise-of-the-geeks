@@ -1,15 +1,15 @@
 ---
-template: post
 title: Migrate your legacy now, and migrate it to Serverless
 subtitle: ''
-date: 2020-03-16T00:00:00Z
-thumb_img_path: ''
-content_img_path: ''
-excerpt: It's never the right time to migrate legacy - but in 10 years it will be
+excerpt: >-
+  It's never the right time to migrate legacy - but in 10 years it will be
   too late. In the meantime Serverless has now enough mature building blocks to enable
   rewrite of enteprise systems with 10x less code. Time to leverage this opportunity
   before your competitors.
-
+date: 2020-03-16T00:00:00Z
+thumb_img_path: ''
+content_img_path: ''
+layout: post
 ---
 # Migrating from legacy systems to cloud-native... before your competitor does
 

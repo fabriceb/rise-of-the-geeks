@@ -1,5 +1,5 @@
 ---
-template: post
+layout: post
 title: 'Lean vs Agile: The Lean Manifesto'
 subtitle: ''
 date: 2020-03-01T00:00:00Z
@@ -8,6 +8,8 @@ content_img_path: ''
 excerpt: ''
 
 ---
+
+
 A few months ago I was participating in a heated debate on whether lean and agile were compatible. My gut feeling was that they are absolutely compatible! But since the person arguing against me was no less than Michael Ballé himself, THE lean guru, who showed a very deep understanding of agile (as he does with most things...) I had to think harder.
 
 My opinion was not based on nothing. First, the lean and agile communities are quite similar and often have intersections. If you type “lean agile” in Google you will find millions of answers.
@@ -54,7 +56,7 @@ Lean does not reject plans, on the contrary. Being scientific about work require
 
 This “lean manifesto” is for me an illustration that lean and agile are compatible. But it also shows that lean includes so much more. The best implementations of agile I have seen or heard of are small teams of talented and dedicated people working on an exciting project. On the other hand, the best implementations of lean we know of are Toyota, Pixar, Amazon… some of the fastest growing and largest organisations in the world.
 
-If you adopted agile because you wanted to fight the “Big Company Disease” and you are wondering how to scale that fight... I believe you can save a lot of time by learning from those who succeeded with lean. 
+If you adopted agile because you wanted to fight the “Big Company Disease” and you are wondering how to scale that fight... I believe you can save a lot of time by learning from those who succeeded with lean.
 
 Here is my way to make the agile manifesto more lean and therefore scale-compatible.
 
