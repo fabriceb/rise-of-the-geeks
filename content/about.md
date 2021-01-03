@@ -10,7 +10,7 @@ layout: page
 
 I am the co-founder and Group CTO of Theodo.
 
-Theodo is a lean software consultancy whose mission is to transform our clients - from start-ups to large companies - to build better digital products. We start by designing and coding products together, then help scale the know-how and finally create the in-house tech capability.
+Theodo is a lean software consultancy whose mission is to transform our clients - from start-ups to large companies - to build better digital products. We do this in 3 steps: first design and code products together, then help scale the know-how and finally create the in-house tech capability.
 
 #### The longer version
 
