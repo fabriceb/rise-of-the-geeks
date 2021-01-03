@@ -7,8 +7,8 @@ excerpt: >-
   rewrite of enteprise systems with 10x less code. Time to leverage this opportunity
   before your competitors.
 date: 2020-03-16T00:00:00Z
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: images/Lego_dimensions.svg.png
+content_img_path: images/Lego_dimensions.svg.png
 layout: post
 ---
 # Migrating from legacy systems to cloud-native... before your competitor does

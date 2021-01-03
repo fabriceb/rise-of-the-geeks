@@ -1,17 +1,14 @@
 ---
+layout: post
 title: Benefits and trade-off of a Serverless strategy
+subtitle: An exec summary of the cloud-native Serverless strategy
 date: 2019-11-04T00:00:00Z
-thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
+thumb_img_path: images/buckstreetcontainers.jpg
+content_img_path: images/buckstreetcontainers.jpg
 excerpt: Looking at the landscape of cloud transformations, three main strategies
   stand out
-template: post
-subtitle: An exec summary of the cloud-native Serverless strategy
 
 ---
-Digital is an amazing leveller that allows small dedicated teams to achieve outcomes that would have been considered impossible two decades before. When Instagram was acquired by Facebook for $1 billion it had achieved a reach of 30 millions users with a team of only 13. In digital it's not the big that eat the small, it's the fast that eat the slow.
-
-One requirement to achieve the speeds required to compete on the IT side is using the latest cloud innovations. In the series we will see the three main cloud strategies that make sense today, by order of decreasing achievable speed.
 
 Digital is an amazing leveller that allows small dedicated teams to achieve outcomes that would have been considered impossible two decades before. When Instagram was acquired by Facebook for $1 billion it had achieved a reach of 30 millions users with a team of only 13. In digital it's not the big that eat the small, it's the fast that eat the slow.
 

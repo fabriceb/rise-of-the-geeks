@@ -3,8 +3,8 @@ layout: post
 title: 'Lean vs Agile: The Lean Manifesto'
 subtitle: ''
 date: 2020-03-01T00:00:00Z
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: images/Mount_Fuji_Japan_with_Snow,_Lakes_and_Surrounding_Mountains.jpg
+content_img_path: images/Mount_Fuji_Japan_with_Snow,_Lakes_and_Surrounding_Mountains.jpg
 excerpt: ''
 
 ---

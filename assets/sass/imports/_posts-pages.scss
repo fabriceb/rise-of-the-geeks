@@ -97,6 +97,22 @@
   margin-top: 1.33333rem;
 }
 
+figure.floatright {
+	max-width: 30%;
+	width: auto;
+	height: auto;
+  float: right;
+  margin-left: 1em;
+}
+
+figure.floatleft {
+	max-width: 30%;
+	width: auto;
+	height: auto;
+  float: left;
+  margin-right: 1em;
+}
+
 @media only screen and (min-width: 681px) {
   .layout-grid {
     .post-feed {
